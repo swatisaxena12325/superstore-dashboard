@@ -21,7 +21,6 @@ A comprehensive Power BI dashboard designed to analyze and visualize retail sale
 ## 📂 Project Structure
 * `superstore_dashboard.pbix`: The main Power BI project file.
 * `data/`: Folder containing the raw dataset (CSV/Excel).
-* `screenshots/`: Images of the dashboard for quick viewing.
 
 ## 📈 Dashboard Preview
 <img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/430b0e14-c4bc-4b3f-874a-5b85f47f8485" />
