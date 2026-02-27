@@ -3,8 +3,7 @@
 A comprehensive Power BI dashboard designed to analyze and visualize retail sales data, providing insights into profitability, revenue trends, and regional performance.
 
 ## 📊 Live Preview
-> **Note:** To view the interactive report, you can [Download the .pbix file](./superstore_dashboard.pbix) and open it in Power BI Desktop.
-> *(Optional: If you have Power BI Service, paste the 'Publish to Web' link here)*
+> **Note:** To view the interactive report, you can [Download the .pbix file](./SuperStore_Dashboard.pbix) and open it in Power BI Desktop.
 
 ## 🚀 Key Features
 * **Executive Summary:** High-level KPIs showing Total Profit ($10.09K), Revenue ($47.88K), and Profit Margin (21.07%).
@@ -20,7 +19,6 @@ A comprehensive Power BI dashboard designed to analyze and visualize retail sale
 
 ## 📂 Project Structure
 * `superstore_dashboard.pbix`: The main Power BI project file.
-* `data/`: Folder containing the raw dataset (CSV/Excel).
 
 ## 📈 Dashboard Preview
 <img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/430b0e14-c4bc-4b3f-874a-5b85f47f8485" />
