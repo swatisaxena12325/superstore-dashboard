@@ -24,7 +24,6 @@ A comprehensive Power BI dashboard designed to analyze and visualize retail sale
 * `screenshots/`: Images of the dashboard for quick viewing.
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot]
 <img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/430b0e14-c4bc-4b3f-874a-5b85f47f8485" />
 
 
@@ -35,4 +34,4 @@ Based on the dashboard:
 3.  **Category Focus:** Technology appears to be a high-performing category.
 
 ---
-Created by [Your Name]
+Created by Swati Saxena
